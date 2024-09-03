@@ -1,0 +1,50 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  ' struc4'
+_cell_length_a                         8.6197900772
+_cell_length_b                         8.8517599106
+_cell_length_c                         12.5012798309
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           953.851554537
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+Pb 1.0 0.96667135     0.00881016     0.9908365     Uiso  ? Pb
+Pb 1.0 0.03692959     0.99957154     0.50696769     Uiso  ? Pb
+Pb 1.0 0.52050149     0.49105193     0.49938719     Uiso  ? Pb
+Pb 1.0 0.48284335     0.49309427     0.00689574     Uiso  ? Pb
+Cs 1.0 0.96580313     0.47922808     0.22394351     Uiso  ? Cs
+Cs 1.0 0.04161622     0.57750588     0.73796062     Uiso  ? Cs
+Cs 1.0 0.50288252     0.03034828     0.77076527     Uiso  ? Cs
+Cs 1.0 0.49483137     0.90559275     0.26301619     Uiso  ? Cs
+I 1.0 0.19630922     0.33094891     0.52951756     Uiso  ? I
+I 1.0 0.80411096     0.71282476     0.45587676     Uiso  ? I
+I 1.0 0.7256367     0.19436814     0.43296521     Uiso  ? I
+I 1.0 0.32227695     0.78930425     0.56955214     Uiso  ? I
+I 1.0 0.74168971     0.73679636     0.01397649     Uiso  ? I
+I 1.0 0.15573687     0.31491238     0.97255067     Uiso  ? I
+I 1.0 0.26055737     0.78799535     0.97351216     Uiso  ? I
+I 1.0 0.69330955     0.22214004     0.05263918     Uiso  ? I
+I 1.0 0.96651227     0.99774396     0.74898076     Uiso  ? I
+I 1.0 0.07150391     0.9992681     0.2439032     Uiso  ? I
+I 1.0 0.43337187     0.45862108     0.26099887     Uiso  ? I
+I 1.0 0.61226827     0.47494766     0.74337206     Uiso  ? I

@@ -1,0 +1,50 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  ' struc4'
+_cell_length_a                         8.6197900772
+_cell_length_b                         8.8517599106
+_cell_length_c                         12.5012798309
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           953.851554537
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+Pb 1.0 0.03368486     0.98050433     0.00784682     Uiso  ? Pb
+Pb 1.0 0.95930813     0.9906417     0.50357395     Uiso  ? Pb
+Pb 1.0 0.47446341     0.50597575     0.49869697     Uiso  ? Pb
+Pb 1.0 0.54363425     0.50806341     0.99117284     Uiso  ? Pb
+Cs 1.0 0.98534737     0.39737715     0.25800985     Uiso  ? Cs
+Cs 1.0 0.96366283     0.53582945     0.75550975     Uiso  ? Cs
+Cs 1.0 0.45803907     0.07011009     0.74686182     Uiso  ? Cs
+Cs 1.0 0.51614726     0.96720513     0.26382245     Uiso  ? Cs
+I 1.0 0.15594476     0.33895587     0.53261426     Uiso  ? I
+I 1.0 0.81020064     0.68760037     0.4507312     Uiso  ? I
+I 1.0 0.69479884     0.25397963     0.47219535     Uiso  ? I
+I 1.0 0.29947025     0.85047374     0.53474297     Uiso  ? I
+I 1.0 0.89495495     0.65881334     0.030119     Uiso  ? I
+I 1.0 0.19793863     0.30635981     0.93958027     Uiso  ? I
+I 1.0 0.35337119     0.81035785     0.98553865     Uiso  ? I
+I 1.0 0.69420473     0.15305401     0.02847492     Uiso  ? I
+I 1.0 0.93510779     0.97285813     0.75110305     Uiso  ? I
+I 1.0 0.02765685     0.96136572     0.25709982     Uiso  ? I
+I 1.0 0.47274754     0.54117708     0.24133622     Uiso  ? I
+I 1.0 0.52592813     0.52006397     0.74900962     Uiso  ? I
